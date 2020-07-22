@@ -1,6 +1,7 @@
 # Japanese Kanji Flipcards
 ![Sample, Face of the page](sample_face-1.png "Face")
 ![Sample, Back of the page](sample_back-1.png "Back")
+![Printed cards](cards.jpg "Printed cards")
 
 
 ## Generator script
